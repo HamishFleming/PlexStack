@@ -6,11 +6,11 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=Melbourne/Australia
     volumes:
       - ./transmission/transmission-config:/config
-      - ./transmission/transmission/completed:/downloads
-      - ./transmission/transmission/watch:/watch
+      - ./transmission/completed:/downloads
+      - ./transmission/watch:/watch
     ports:
       - 9091:9091
       - 51413:51413
@@ -22,11 +22,11 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=Melbourne/Australia
     volumes:
       - ./radarr/radarr-config:/config
-      - ./radarr/plex/movies:/movies
-      - ./radarr/transmission/completed:/downloads
+      - ./plex/plex/movies:/movies
+      - ./transmission/completed:/downloads
     ports:
       - 7878:7878
     restart: unless-stopped
@@ -36,11 +36,11 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=Melbourne/Australia
     volumes:
       - ./sonarr/sonarr-config:/config
-      - ./sonarr/plex/tv:/tv
-      - ./sonarr/transmission/completed:/downloads
+      - ./plex/tv:/tv
+      - ./transmission/completed:/downloads
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -50,10 +50,10 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=Melbourne/Australia
     volumes:
       - ./jackett/jackett-config:/config
-      - ./jackett/jackett/downloads:/downloads
+      - ./jackett/downloads:/downloads
     ports:
       - 9117:9117
     restart: unless-stopped
@@ -67,6 +67,6 @@ services:
       - VERSION=docker
     volumes:
       - ./plex/plex-config:/config
-      - ./plex/plex/tv:/tv
-      - ./plex/plex/movies:/movies
+      - ./plex/tv:/tv
+      - ./plex/movies:/movies
     restart: unless-stopped
