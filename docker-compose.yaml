@@ -1,0 +1,72 @@
+version: "2.1"
+services:
+  transmission:
+    image: lscr.io/linuxserver/transmission:latest
+    container_name: transmission
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./transmission/transmission-config:/config
+      - ./transmission/transmission/completed:/downloads
+      - ./transmission/transmission/watch:/watch
+    ports:
+      - 9091:9091
+      - 51413:51413
+      - 51413:51413/udp
+    restart: unless-stopped
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./radarr/radarr-config:/config
+      - ./radarr/plex/movies:/movies
+      - ./radarr/transmission/completed:/downloads
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./sonarr/sonarr-config:/config
+      - ./sonarr/plex/tv:/tv
+      - ./sonarr/transmission/completed:/downloads
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+  jackett:
+    image: lscr.io/linuxserver/jackett:latest
+    container_name: jackett
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./jackett/jackett-config:/config
+      - ./jackett/jackett/downloads:/downloads
+    ports:
+      - 9117:9117
+    restart: unless-stopped
+  plex:
+    image: lscr.io/linuxserver/plex:latest
+    container_name: plex
+    network_mode: host
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - VERSION=docker
+    volumes:
+      - ./plex/plex-config:/config
+      - ./plex/plex/tv:/tv
+      - ./plex/plex/movies:/movies
+    restart: unless-stopped
