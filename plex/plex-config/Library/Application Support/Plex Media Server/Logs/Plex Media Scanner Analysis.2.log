@@ -1,0 +1,55 @@
+Oct 08, 2022 14:57:27.005 [0x7f7f83b2ab00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 14:57:27.005 [0x7f7f83b2ab00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 14:57:27.005 [0x7f7f83b2ab00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 14:57:27.005 [0x7f7f83b2ab00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 4
+Oct 08, 2022 14:57:27.006 [0x7f7f875af140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 14:57:27.081 [0x7f7f875af140] DEBUG - Analyzing media parts for item 4 (Batman: Death in the Family): 4
+Oct 08, 2022 14:57:27.082 [0x7f7f875af140] DEBUG - [ID 22] Media part analysis: /movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+Oct 08, 2022 14:57:27.082 [0x7f7f875af140] DEBUG - [MI] Opening input file: "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+Oct 08, 2022 14:57:27.082 [0x7f7f875af140] DEBUG - [FFMPEG] - Opening '/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4' for reading
+Oct 08, 2022 14:57:27.082 [0x7f7f875af140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 14:57:27.083 [0x7f7f875af140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Oct 08, 2022 14:57:27.083 [0x7f7f875af140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Oct 08, 2022 14:57:27.083 [0x7f7f875af140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 14:57:27.090 [0x7f7f875af140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 2002, duration: 44643600
+Oct 08, 2022 14:57:27.091 [0x7f7f875af140] DEBUG - [FFMPEG] - Offset DTS by 2002 to make first pts zero.
+Oct 08, 2022 14:57:27.092 [0x7f7f875af140] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Oct 08, 2022 14:57:27.092 [0x7f7f875af140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 14:57:27.096 [0x7f7f875af140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 2048, duration: 89287680
+Oct 08, 2022 14:57:27.096 [0x7f7f875af140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Oct 08, 2022 14:57:27.096 [0x7f7f875af140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 1024 @ 1
+Oct 08, 2022 14:57:27.097 [0x7f7f875af140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 1558684 bytes read:1576712 seeks:0 nb_streams:2
+Oct 08, 2022 14:57:27.098 [0x7f7f875af140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.098 [0x7f7f875af140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.098 [0x7f7f875af140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Oct 08, 2022 14:57:27.098 [0x7f7f875af140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.098 [0x7f7f875af140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Oct 08, 2022 14:57:27.100 [0x7f7f875af140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 14:57:27.103 [0x7f7f875af140] DEBUG - [FFMPEG] - demuxer injecting skip 2048 / discard 0
+Oct 08, 2022 14:57:27.103 [0x7f7f875af140] DEBUG - [FFMPEG] - All info found
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1560905 bytes read:1576712 seeks:0 frames:2
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - [MI] Opening "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4" for MP4 atom parsing
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found moov atom of size 1558636 at offset 32
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found trak atom of size 644184 at offset 148
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found trak atom of size 914238 at offset 644332
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found mdia atom of size 644048 at offset 284
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found minf atom of size 643963 at offset 369
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found stbl atom of size 643899 at offset 433
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found mdia atom of size 914102 at offset 644468
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found minf atom of size 914017 at offset 644553
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - Mp4AtomParser: Found stbl atom of size 913957 at offset 644613
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - [MI]  * 2f5bba89d227fb19b31d41d4791b5c47e594df33 [mp4 h264/aac] Duration: 1860203ms, 1920x1072 (1.791045) 23.976fps, bitrate=2640kbps, audio channels=6, optimizedForStreaming=1 ("/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4")
+Oct 08, 2022 14:57:27.104 [0x7f7f875af140] DEBUG - [MI] Chapters had generic titles, clearing.
+Oct 08, 2022 14:57:27.105 [0x7f7f875af140] DEBUG - [MI] Closing input file: "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+Oct 08, 2022 14:57:27.105 [0x7f7f875af140] DEBUG - Committing media stream changes for part 22
+Oct 08, 2022 14:57:27.106 [0x7f7f875af140] DEBUG - Updating media item 4, size=614099353, metadata_item_id=4
+Oct 08, 2022 14:57:27.106 [0x7f7f875af140] DEBUG - Updating part with ID=22 [/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4]
+Oct 08, 2022 14:57:27.106 [0x7f7f82fd5b00] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 14:57:27.107 [0x7f7f82f15b00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 14:57:27.107 [0x7f7f82fd5b00] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Oct 08, 2022 14:57:27.107 [0x7f7f82f15b00] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Oct 08, 2022 14:57:27.108 [0x7f7f875af140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:57:27.108 [0x7f7f875af140] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:57:27.108 [0x7f7f82f15b00] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Oct 08, 2022 14:57:27.109 [0x7f7f875af140] DEBUG - Updating metadata item (save) (Batman: Death in the Family) with ID 4

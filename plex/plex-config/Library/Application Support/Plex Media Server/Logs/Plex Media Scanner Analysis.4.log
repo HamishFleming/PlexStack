@@ -1,0 +1,17 @@
+Oct 08, 2022 14:51:54.224 [0x7fb280ca0b00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 14:51:54.224 [0x7fb280ca0b00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 14:51:54.224 [0x7fb280ca0b00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 14:51:54.224 [0x7fb280ca0b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 2
+Oct 08, 2022 14:51:54.225 [0x7fb284725140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 14:51:54.381 [0x7fb284725140] DEBUG - Analyzing media parts for item 2 (Empty): 2
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] DEBUG - Computing hash for a tiny file, only using first block.
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] DEBUG - [ID 20] Media part analysis: /proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/empty.ts
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] DEBUG - [MI] Opening input file: "/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/empty.ts"
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] DEBUG - [FFMPEG] - Opening '/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/empty.ts' for reading
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] ERROR - Exception analyzing media file '/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/empty.ts' (Could not parse /proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/empty.ts (error=-1094995529): Invalid data found when processing input)
+Oct 08, 2022 14:51:54.382 [0x7fb284725140] ERROR - Failed to successfully analyze part 20.
+Oct 08, 2022 14:51:54.386 [0x7fb284725140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.386 [0x7fb284725140] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.387 [0x7fb28005bb00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.387 [0x7fb284725140] DEBUG - Updating metadata item (save) (Empty) with ID 2

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitles>
+  <Language code="">
+    <Subtitle codec="vtt" name="empty" file="/proc/129/root/lib/plexmediaserver/Resources/empty.vtt" format="webvtt"/>
+  </Language>
+  <Language code="">
+    <Subtitle codec="vtt" name="empty-map" file="/proc/129/root/lib/plexmediaserver/Resources/empty-map.vtt" format="webvtt"/>
+  </Language>
+</Subtitles>

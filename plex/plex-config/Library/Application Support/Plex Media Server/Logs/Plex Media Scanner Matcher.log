@@ -1,0 +1,38 @@
+Oct 08, 2022 15:09:41.726 [0x7f745b560b00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 15:09:41.727 [0x7f745b560b00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 15:09:41.727 [0x7f745b560b00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 15:09:41.727 [0x7f745b560b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 10
+Oct 08, 2022 15:09:41.727 [0x7f745efe5140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 15:09:41.817 [0x7f745efe5140] DEBUG - [MI] Opening input file: "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+Oct 08, 2022 15:09:41.817 [0x7f745efe5140] DEBUG - [FFMPEG] - Opening '/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4' for reading
+Oct 08, 2022 15:09:41.817 [0x7f745efe5140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 15:09:41.818 [0x7f745efe5140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Oct 08, 2022 15:09:41.818 [0x7f745efe5140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Oct 08, 2022 15:09:41.818 [0x7f745efe5140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 15:09:41.827 [0x7f745efe5140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 2002, duration: 114233136
+Oct 08, 2022 15:09:41.832 [0x7f745efe5140] DEBUG - [FFMPEG] - Offset DTS by 2002 to make first pts zero.
+Oct 08, 2022 15:09:41.833 [0x7f745efe5140] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Oct 08, 2022 15:09:41.833 [0x7f745efe5140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 15:09:41.841 [0x7f745efe5140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 1024, duration: 227793408
+Oct 08, 2022 15:09:41.841 [0x7f745efe5140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 3229303 bytes read:3232731 seeks:0 nb_streams:2
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.846 [0x7f745efe5140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Oct 08, 2022 15:09:41.847 [0x7f745efe5140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 15:09:41.848 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Oct 08, 2022 15:09:41.848 [0x7f745efe5140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 15:09:41.849 [0x7f745efe5140] DEBUG - [FFMPEG] - demuxer injecting skip 1024 / discard 0
+Oct 08, 2022 15:09:41.849 [0x7f745efe5140] DEBUG - [FFMPEG] - All info found
+Oct 08, 2022 15:09:41.849 [0x7f745efe5140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 3230401 bytes read:3232731 seeks:0 frames:3
+Oct 08, 2022 15:09:41.849 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.849 [0x7f745efe5140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.850 [0x7f745efe5140] DEBUG - [MI] Closing input file: "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+Oct 08, 2022 15:09:41.850 [0x7f745efe5140] DEBUG - Matcher: found 2 auxiliary files in "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]" (single media: yes)
+Oct 08, 2022 15:09:41.851 [0x7f745efe5140] DEBUG - Scanner: found local sidecar subtitle "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].srt"
+Oct 08, 2022 15:09:41.851 [0x7f745efe5140] DEBUG - [FFMPEG] - Opening '/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].srt' for reading
+Oct 08, 2022 15:09:41.851 [0x7f745efe5140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 15:09:41.851 [0x7f745efe5140] DEBUG - [FFMPEG] - Format srt probed with size=2048 and score=100
+Oct 08, 2022 15:09:41.854 [0x7f745efe5140] DEBUG - Matcher: saving subtitle info to media bundle "/config/Library/Application Support/Plex Media Server/Media/localhost/b/468a22dc2cc5cef050bd950bee791bb91c2af23.bundle/Contents/Plex Movie/Subtitles.xml"

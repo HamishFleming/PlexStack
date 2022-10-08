@@ -9,3 +9,775 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/2d0dda9f/
+/download/	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "\/download\/": ".torrent",$/;"	s	object:3.options
+/download/	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "\/download\/": ".torrent",$/;"	s	object:4.options
+0	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/btmet.json	/^      "0": "relevance",$/;"	s	object:3.options
+0	jackett/jackett-config/Jackett/Indexers/btmet.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^  {$/;"	o
+0	jackett/jackett-config/Jackett/Indexers/yts.json	/^  {$/;"	o
+0	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "abbess",$/;"	s	array:blacklist
+1	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/btmet.json	/^      "1": "created",$/;"	s	object:3.options
+1	jackett/jackett-config/Jackett/Indexers/btmet.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^  {$/;"	o
+1	jackett/jackett-config/Jackett/Indexers/yts.json	/^  {$/;"	o
+1	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "abdominal",$/;"	s	array:blacklist
+10	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "affair",$/;"	s	array:blacklist
+100	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "class",$/;"	s	array:blacklist
+101	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "club drug",$/;"	s	array:blacklist
+102	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cocaine",$/;"	s	array:blacklist
+103	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cock",$/;"	s	array:blacklist
+104	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "coevals",$/;"	s	array:blacklist
+105	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "coke",$/;"	s	array:blacklist
+106	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "collegian",$/;"	s	array:blacklist
+107	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "combatant",$/;"	s	array:blacklist
+108	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "compact disk",$/;"	s	array:blacklist
+109	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "complexion",$/;"	s	array:blacklist
+11	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "african",$/;"	s	array:blacklist
+110	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "concentration",$/;"	s	array:blacklist
+111	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "condition",$/;"	s	array:blacklist
+112	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "condom",$/;"	s	array:blacklist
+113	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "confusion",$/;"	s	array:blacklist
+114	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "congratulation",$/;"	s	array:blacklist
+115	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "conserve",$/;"	s	array:blacklist
+116	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "consultation",$/;"	s	array:blacklist
+117	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "consumerism",$/;"	s	array:blacklist
+118	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "context",$/;"	s	array:blacklist
+119	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "contraceptive",$/;"	s	array:blacklist
+12	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "african country",$/;"	s	array:blacklist
+120	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "controlled substance",$/;"	s	array:blacklist
+121	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "conveyance",$/;"	s	array:blacklist
+122	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "coot",$/;"	s	array:blacklist
+123	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "coquette",$/;"	s	array:blacklist
+124	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "corpulence",$/;"	s	array:blacklist
+125	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "correctional institution",$/;"	s	array:blacklist
+126	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cougar",$/;"	s	array:blacklist
+127	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "courage",$/;"	s	array:blacklist
+128	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cover girl",$/;"	s	array:blacklist
+129	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cow",$/;"	s	array:blacklist
+13	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "african-american",$/;"	s	array:blacklist
+130	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "crazy",$/;"	s	array:blacklist
+131	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "creation",$/;"	s	array:blacklist
+132	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "creator",$/;"	s	array:blacklist
+133	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "criminal",$/;"	s	array:blacklist
+134	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "crisis",$/;"	s	array:blacklist
+135	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "crotch",$/;"	s	array:blacklist
+136	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cruciferous vegetable",$/;"	s	array:blacklist
+137	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cuckoo",$/;"	s	array:blacklist
+138	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "customer",$/;"	s	array:blacklist
+139	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cyprus",$/;"	s	array:blacklist
+14	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "afro",$/;"	s	array:blacklist
+140	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dad",$/;"	s	array:blacklist
+141	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dainty",$/;"	s	array:blacklist
+142	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "darling",$/;"	s	array:blacklist
+143	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "date",$/;"	s	array:blacklist
+144	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "daughter",$/;"	s	array:blacklist
+145	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "daze",$/;"	s	array:blacklist
+146	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dead",$/;"	s	array:blacklist
+147	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "debris",$/;"	s	array:blacklist
+148	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "defender",$/;"	s	array:blacklist
+149	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "deity",$/;"	s	array:blacklist
+15	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "agent",$/;"	s	array:blacklist
+150	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "deoxyribonucleic acid",$/;"	s	array:blacklist
+151	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "depression",$/;"	s	array:blacklist
+152	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "despair",$/;"	s	array:blacklist
+153	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dhole",$/;"	s	array:blacklist
+154	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "diet",$/;"	s	array:blacklist
+155	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dining-room attendant",$/;"	s	array:blacklist
+156	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "director",$/;"	s	array:blacklist
+157	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "disabled",$/;"	s	array:blacklist
+158	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "dishrag",$/;"	s	array:blacklist
+159	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "disk brake",$/;"	s	array:blacklist
+16	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "alcoholic",$/;"	s	array:blacklist
+160	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "disputant",$/;"	s	array:blacklist
+161	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "domestic",$/;"	s	array:blacklist
+162	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "drug",$/;"	s	array:blacklist
+163	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "drunkard",$/;"	s	array:blacklist
+164	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "durables",$/;"	s	array:blacklist
+165	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "earthstar",$/;"	s	array:blacklist
+166	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "efficiency",$/;"	s	array:blacklist
+167	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "elder",$/;"	s	array:blacklist
+168	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "employee",$/;"	s	array:blacklist
+169	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "enrollee",$/;"	s	array:blacklist
+17	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "algonquian",$/;"	s	array:blacklist
+170	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "entrepreneur",$/;"	s	array:blacklist
+171	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "erotic",$/;"	s	array:blacklist
+172	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "establishment",$/;"	s	array:blacklist
+173	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "european",$/;"	s	array:blacklist
+174	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "executive",$/;"	s	array:blacklist
+175	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "exploitation",$/;"	s	array:blacklist
+176	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "failure",$/;"	s	array:blacklist
+177	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fame",$/;"	s	array:blacklist
+178	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fan",$/;"	s	array:blacklist
+179	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "father",$/;"	s	array:blacklist
+18	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "american",$/;"	s	array:blacklist
+180	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fault",$/;"	s	array:blacklist
+181	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "feature",$/;"	s	array:blacklist
+182	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fiction",$/;"	s	array:blacklist
+183	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "flatworm",$/;"	s	array:blacklist
+184	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "flirt",$/;"	s	array:blacklist
+185	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "florida",$/;"	s	array:blacklist
+186	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "flunitrazepan",$/;"	s	array:blacklist
+187	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fodder",$/;"	s	array:blacklist
+188	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "follower",$/;"	s	array:blacklist
+189	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "food fish",$/;"	s	array:blacklist
+19	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "american coot",$/;"	s	array:blacklist
+190	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "foreman",$/;"	s	array:blacklist
+191	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fragility",$/;"	s	array:blacklist
+192	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "frustration",$/;"	s	array:blacklist
+193	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "fungus",$/;"	s	array:blacklist
+194	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "game bird",$/;"	s	array:blacklist
+195	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "gang",$/;"	s	array:blacklist
+196	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "gangster",$/;"	s	array:blacklist
+197	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "garbage",$/;"	s	array:blacklist
+198	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "gasmask",$/;"	s	array:blacklist
+199	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "german",$/;"	s	array:blacklist
+2	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/btmet.json	/^      "2": "size"$/;"	s	object:3.options
+2	jackett/jackett-config/Jackett/Indexers/btmet.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^  {$/;"	o
+2	jackett/jackett-config/Jackett/Indexers/yts.json	/^  {$/;"	o
+2	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "ache",$/;"	s	array:blacklist
+20	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "amerindian",$/;"	s	array:blacklist
+200	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "gibbon",$/;"	s	array:blacklist
+201	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "god",$/;"	s	array:blacklist
+202	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "godhead",$/;"	s	array:blacklist
+203	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "gorilla",$/;"	s	array:blacklist
+204	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "grandfather",$/;"	s	array:blacklist
+205	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "grandma",$/;"	s	array:blacklist
+206	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "greek",$/;"	s	array:blacklist
+207	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hack",$/;"	s	array:blacklist
+208	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hairpiece",$/;"	s	array:blacklist
+209	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hallucinogen",$/;"	s	array:blacklist
+21	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "amphetamine",$/;"	s	array:blacklist
+210	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hand tool",$/;"	s	array:blacklist
+211	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "handiness",$/;"	s	array:blacklist
+212	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hanging",$/;"	s	array:blacklist
+213	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "haste",$/;"	s	array:blacklist
+214	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "head cabbage",$/;"	s	array:blacklist
+215	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hemipterous insect",$/;"	s	array:blacklist
+216	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hen",$/;"	s	array:blacklist
+217	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hero",$/;"	s	array:blacklist
+218	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "heterosexual",$/;"	s	array:blacklist
+219	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "high",$/;"	s	array:blacklist
+22	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "amsterdam",$/;"	s	array:blacklist
+220	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hindu",$/;"	s	array:blacklist
+221	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hippie",$/;"	s	array:blacklist
+222	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hired hand",$/;"	s	array:blacklist
+223	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hog",$/;"	s	array:blacklist
+224	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hognose snake",$/;"	s	array:blacklist
+225	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hominid",$/;"	s	array:blacklist
+226	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "homo",$/;"	s	array:blacklist
+227	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hope",$/;"	s	array:blacklist
+228	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "housewife",$/;"	s	array:blacklist
+229	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "hovel",$/;"	s	array:blacklist
+23	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "angel",$/;"	s	array:blacklist
+230	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "human body",$/;"	s	array:blacklist
+231	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "husband",$/;"	s	array:blacklist
+232	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "id",$/;"	s	array:blacklist
+233	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "identification",$/;"	s	array:blacklist
+234	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "imagination",$/;"	s	array:blacklist
+235	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "important person",$/;"	s	array:blacklist
+236	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "income",$/;"	s	array:blacklist
+237	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "indian",$/;"	s	array:blacklist
+238	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "indulgence",$/;"	s	array:blacklist
+239	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "innocent",$/;"	s	array:blacklist
+24	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "animal material",$/;"	s	array:blacklist
+240	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "institution",$/;"	s	array:blacklist
+241	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "instrument of execution",$/;"	s	array:blacklist
+242	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "instrumentality",$/;"	s	array:blacklist
+243	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "intellectual",$/;"	s	array:blacklist
+244	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "iran",$/;"	s	array:blacklist
+245	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "irani",$/;"	s	array:blacklist
+246	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "irish",$/;"	s	array:blacklist
+247	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "israel",$/;"	s	array:blacklist
+248	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "japanese",$/;"	s	array:blacklist
+249	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "jerusalem",$/;"	s	array:blacklist
+25	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "ape",$/;"	s	array:blacklist
+250	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "jesus",$/;"	s	array:blacklist
+251	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "jew",$/;"	s	array:blacklist
+252	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "joint",$/;"	s	array:blacklist
+253	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "juvenile",$/;"	s	array:blacklist
+254	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "kazakhstan",$/;"	s	array:blacklist
+255	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "killing",$/;"	s	array:blacklist
+256	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "kin",$/;"	s	array:blacklist
+257	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "kingdom",$/;"	s	array:blacklist
+258	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "kite",$/;"	s	array:blacklist
+259	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "knob",$/;"	s	array:blacklist
+26	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "appeal",$/;"	s	array:blacklist
+260	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "korea",$/;"	s	array:blacklist
+261	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "korean",$/;"	s	array:blacklist
+262	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "label",$/;"	s	array:blacklist
+263	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "laborer",$/;"	s	array:blacklist
+264	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "larceny",$/;"	s	array:blacklist
+265	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "latin american",$/;"	s	array:blacklist
+266	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "lawman",$/;"	s	array:blacklist
+267	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "lawyer",$/;"	s	array:blacklist
+268	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "leader",$/;"	s	array:blacklist
+269	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "liaison",$/;"	s	array:blacklist
+27	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "arab",$/;"	s	array:blacklist
+270	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "lingerie",$/;"	s	array:blacklist
+271	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "liquid body substance",$/;"	s	array:blacklist
+272	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "lover",$/;"	s	array:blacklist
+273	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "macaque",$/;"	s	array:blacklist
+274	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "macho",$/;"	s	array:blacklist
+275	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "male",$/;"	s	array:blacklist
+276	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "male child",$/;"	s	array:blacklist
+277	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "male reproductive gland",$/;"	s	array:blacklist
+278	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mandala",$/;"	s	array:blacklist
+279	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "medical instrument",$/;"	s	array:blacklist
+28	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "arabesque",$/;"	s	array:blacklist
+280	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "menorah",$/;"	s	array:blacklist
+281	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mercantile establishment",$/;"	s	array:blacklist
+282	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "methamphetamine",$/;"	s	array:blacklist
+283	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mexican",$/;"	s	array:blacklist
+284	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "miami",$/;"	s	array:blacklist
+285	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "minaret",$/;"	s	array:blacklist
+286	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "moment",$/;"	s	array:blacklist
+287	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "monk",$/;"	s	array:blacklist
+288	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "monkey",$/;"	s	array:blacklist
+289	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "monster",$/;"	s	array:blacklist
+29	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "arabian camel",$/;"	s	array:blacklist
+290	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mosque",$/;"	s	array:blacklist
+291	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mother",$/;"	s	array:blacklist
+292	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "muscleman",$/;"	s	array:blacklist
+293	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "muslim",$/;"	s	array:blacklist
+294	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "muzzle",$/;"	s	array:blacklist
+295	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "myanmar",$/;"	s	array:blacklist
+296	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "mystic",$/;"	s	array:blacklist
+297	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "myth",$/;"	s	array:blacklist
+298	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "narcotic",$/;"	s	array:blacklist
+299	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "national",$/;"	s	array:blacklist
+3	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/btmet.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^  {$/;"	o
+3	jackett/jackett-config/Jackett/Indexers/yts.json	/^  {$/;"	o
+3	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "achiever",$/;"	s	array:blacklist
+30	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "argentina",$/;"	s	array:blacklist
+300	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "native",$/;"	s	array:blacklist
+301	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "natural depression",$/;"	s	array:blacklist
+302	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "neck brace",$/;"	s	array:blacklist
+303	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "neonate",$/;"	s	array:blacklist
+304	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "nipple",$/;"	s	array:blacklist
+305	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "north american",$/;"	s	array:blacklist
+306	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "object",$/;"	s	array:blacklist
+307	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "occultist",$/;"	s	array:blacklist
+308	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "official",$/;"	s	array:blacklist
+309	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "offspring",$/;"	s	array:blacklist
+31	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "aristocrat",$/;"	s	array:blacklist
+310	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "old-timer",$/;"	s	array:blacklist
+311	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "opinion",$/;"	s	array:blacklist
+312	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "orangutan",$/;"	s	array:blacklist
+313	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "organ",$/;"	s	array:blacklist
+314	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "oriental",$/;"	s	array:blacklist
+315	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "original",$/;"	s	array:blacklist
+316	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "outbuilding",$/;"	s	array:blacklist
+317	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "oven",$/;"	s	array:blacklist
+318	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "oystercatcher",$/;"	s	array:blacklist
+319	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "pad",$/;"	s	array:blacklist
+32	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "asian",$/;"	s	array:blacklist
+320	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "pantie",$/;"	s	array:blacklist
+321	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "parent",$/;"	s	array:blacklist
+322	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "partnership",$/;"	s	array:blacklist
+323	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "patient",$/;"	s	array:blacklist
+324	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "patriot",$/;"	s	array:blacklist
+325	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "patron saint",$/;"	s	array:blacklist
+326	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "peer",$/;"	s	array:blacklist
+327	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "penal institution",$/;"	s	array:blacklist
+328	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "pensioner",$/;"	s	array:blacklist
+329	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "pipe dream",$/;"	s	array:blacklist
+33	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "asian country",$/;"	s	array:blacklist
+330	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "place of business",$/;"	s	array:blacklist
+331	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "place of worship",$/;"	s	array:blacklist
+332	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "plain",$/;"	s	array:blacklist
+333	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "plant organ",$/;"	s	array:blacklist
+334	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "plant part",$/;"	s	array:blacklist
+335	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "plaything",$/;"	s	array:blacklist
+336	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "plow",$/;"	s	array:blacklist
+337	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "point of view",$/;"	s	array:blacklist
+338	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "poison",$/;"	s	array:blacklist
+339	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "poland",$/;"	s	array:blacklist
+34	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "assault rifle",$/;"	s	array:blacklist
+340	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "poverty",$/;"	s	array:blacklist
+341	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "powder",$/;"	s	array:blacklist
+342	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "praise",$/;"	s	array:blacklist
+343	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prayer",$/;"	s	array:blacklist
+344	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prayer rug",$/;"	s	array:blacklist
+345	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "preciseness",$/;"	s	array:blacklist
+346	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "predator",$/;"	s	array:blacklist
+347	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prescription drug",$/;"	s	array:blacklist
+348	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "preserver",$/;"	s	array:blacklist
+349	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prevention",$/;"	s	array:blacklist
+35	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "assistant",$/;"	s	array:blacklist
+350	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "pride",$/;"	s	array:blacklist
+351	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "priest",$/;"	s	array:blacklist
+352	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "primary",$/;"	s	array:blacklist
+353	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "primate",$/;"	s	array:blacklist
+354	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prison",$/;"	s	array:blacklist
+355	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "private",$/;"	s	array:blacklist
+356	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "proboscidean",$/;"	s	array:blacklist
+357	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "process",$/;"	s	array:blacklist
+358	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "professional",$/;"	s	array:blacklist
+359	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prognosis",$/;"	s	array:blacklist
+36	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "attempt",$/;"	s	array:blacklist
+360	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "promise",$/;"	s	array:blacklist
+361	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prophet",$/;"	s	array:blacklist
+362	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "prosperity",$/;"	s	array:blacklist
+363	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "protection",$/;"	s	array:blacklist
+364	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "protective covering",$/;"	s	array:blacklist
+365	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "psychoactive drug",$/;"	s	array:blacklist
+366	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "punishment",$/;"	s	array:blacklist
+367	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "purchase",$/;"	s	array:blacklist
+368	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "r-2",$/;"	s	array:blacklist
+369	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "race",$/;"	s	array:blacklist
+37	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "attendant",$/;"	s	array:blacklist
+370	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "rack",$/;"	s	array:blacklist
+371	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "rapeseed",$/;"	s	array:blacklist
+372	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "rear",$/;"	s	array:blacklist
+373	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "recovery",$/;"	s	array:blacklist
+374	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "reformer",$/;"	s	array:blacklist
+375	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "relation",$/;"	s	array:blacklist
+376	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "religious",$/;"	s	array:blacklist
+377	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "religious person",$/;"	s	array:blacklist
+378	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "religious residence",$/;"	s	array:blacklist
+379	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "repetition",$/;"	s	array:blacklist
+38	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "attention deficit disorder",$/;"	s	array:blacklist
+380	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "reproductive organ",$/;"	s	array:blacklist
+381	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "repugnance",$/;"	s	array:blacklist
+382	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "return",$/;"	s	array:blacklist
+383	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "rival",$/;"	s	array:blacklist
+384	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "roll of tobacco",$/;"	s	array:blacklist
+385	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "roman",$/;"	s	array:blacklist
+386	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "rubbish",$/;"	s	array:blacklist
+387	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "ruminant",$/;"	s	array:blacklist
+388	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "russian",$/;"	s	array:blacklist
+389	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "saint",$/;"	s	array:blacklist
+39	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "attitude",$/;"	s	array:blacklist
+390	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "salmonid",$/;"	s	array:blacklist
+391	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "satisfaction",$/;"	s	array:blacklist
+392	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "schoolboy",$/;"	s	array:blacklist
+393	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "screw",$/;"	s	array:blacklist
+394	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "secretary",$/;"	s	array:blacklist
+395	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "semite",$/;"	s	array:blacklist
+396	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "senior",$/;"	s	array:blacklist
+397	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sense organ",$/;"	s	array:blacklist
+398	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "service",$/;"	s	array:blacklist
+399	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "serviceman",$/;"	s	array:blacklist
+4	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+4	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+4	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+4	jackett/jackett-config/Jackett/Indexers/btmet.json	/^  {$/;"	o
+4	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "acid",$/;"	s	array:blacklist
+40	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "autoloader",$/;"	s	array:blacklist
+400	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "set",$/;"	s	array:blacklist
+401	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sex",$/;"	s	array:blacklist
+402	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sexual activity",$/;"	s	array:blacklist
+403	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "shrine",$/;"	s	array:blacklist
+404	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "siamang",$/;"	s	array:blacklist
+405	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sibling",$/;"	s	array:blacklist
+406	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sick person",$/;"	s	array:blacklist
+407	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "signaling device",$/;"	s	array:blacklist
+408	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "simpleton",$/;"	s	array:blacklist
+409	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "slope",$/;"	s	array:blacklist
+41	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "automatic firearm",$/;"	s	array:blacklist
+410	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "snake",$/;"	s	array:blacklist
+411	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "son",$/;"	s	array:blacklist
+412	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sorcerer",$/;"	s	array:blacklist
+413	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "soviet union",$/;"	s	array:blacklist
+414	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "spanish",$/;"	s	array:blacklist
+415	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "special",$/;"	s	array:blacklist
+416	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "specialist",$/;"	s	array:blacklist
+417	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "spiritual being",$/;"	s	array:blacklist
+418	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "spouse",$/;"	s	array:blacklist
+419	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stalk",$/;"	s	array:blacklist
+42	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "automatic rifle",$/;"	s	array:blacklist
+420	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stare",$/;"	s	array:blacklist
+421	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stigmatization",$/;"	s	array:blacklist
+422	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stimulant",$/;"	s	array:blacklist
+423	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stinkhorn",$/;"	s	array:blacklist
+424	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "strengthener",$/;"	s	array:blacklist
+425	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stress",$/;"	s	array:blacklist
+426	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "student",$/;"	s	array:blacklist
+427	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "stupa",$/;"	s	array:blacklist
+428	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "substance",$/;"	s	array:blacklist
+429	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "success",$/;"	s	array:blacklist
+43	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "automaton",$/;"	s	array:blacklist
+430	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "sunglass",$/;"	s	array:blacklist
+431	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "superior",$/;"	s	array:blacklist
+432	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "support",$/;"	s	array:blacklist
+433	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "swab",$/;"	s	array:blacklist
+434	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "swine",$/;"	s	array:blacklist
+435	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "swiss",$/;"	s	array:blacklist
+436	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "syringe",$/;"	s	array:blacklist
+437	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "teddy",$/;"	s	array:blacklist
+438	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "temper",$/;"	s	array:blacklist
+439	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "temple",$/;"	s	array:blacklist
+44	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "baboon",$/;"	s	array:blacklist
+440	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "temptation",$/;"	s	array:blacklist
+441	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "testis",$/;"	s	array:blacklist
+442	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "titi",$/;"	s	array:blacklist
+443	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "toilet tissue",$/;"	s	array:blacklist
+444	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "tool",$/;"	s	array:blacklist
+445	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "touch",$/;"	s	array:blacklist
+446	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "undergraduate",$/;"	s	array:blacklist
+447	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "underwear",$/;"	s	array:blacklist
+448	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "unfitness",$/;"	s	array:blacklist
+449	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "ungulate",$/;"	s	array:blacklist
+45	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "back",$/;"	s	array:blacklist
+450	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "united states",$/;"	s	array:blacklist
+451	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "united states army",$/;"	s	array:blacklist
+452	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "unskilled person",$/;"	s	array:blacklist
+453	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "vegan",$/;"	s	array:blacklist
+454	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "very important person",$/;"	s	array:blacklist
+455	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "victorian",$/;"	s	array:blacklist
+456	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "vulture",$/;"	s	array:blacklist
+457	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wading bird",$/;"	s	array:blacklist
+458	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "waste",$/;"	s	array:blacklist
+459	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "way",$/;"	s	array:blacklist
+46	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bacteria",$/;"	s	array:blacklist
+460	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wealth",$/;"	s	array:blacklist
+461	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "weave",$/;"	s	array:blacklist
+462	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "whale",$/;"	s	array:blacklist
+463	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "white",$/;"	s	array:blacklist
+464	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "white goods",$/;"	s	array:blacklist
+465	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wife",$/;"	s	array:blacklist
+466	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wig",$/;"	s	array:blacklist
+467	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "winning",$/;"	s	array:blacklist
+468	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "winnings",$/;"	s	array:blacklist
+469	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "worker",$/;"	s	array:blacklist
+47	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bad person",$/;"	s	array:blacklist
+470	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "worm",$/;"	s	array:blacklist
+471	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wreck",$/;"	s	array:blacklist
+472	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "wrongdoer",$/;"	s	array:blacklist
+473	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "yes"$/;"	s	array:blacklist
+48	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bang",$/;"	s	array:blacklist
+49	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "baron",$/;"	s	array:blacklist
+5	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+5	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+5	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^  {$/;"	o
+5	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "act",$/;"	s	array:blacklist
+50	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "barracouta",$/;"	s	array:blacklist
+51	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "basic",$/;"	s	array:blacklist
+52	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "belief",$/;"	s	array:blacklist
+53	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "believer",$/;"	s	array:blacklist
+54	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "beloved",$/;"	s	array:blacklist
+55	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "black",$/;"	s	array:blacklist
+56	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "blind",$/;"	s	array:blacklist
+57	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "blob",$/;"	s	array:blacklist
+58	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "blowing",$/;"	s	array:blacklist
+59	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bob",$/;"	s	array:blacklist
+6	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+6	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+6	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "aculeus",$/;"	s	array:blacklist
+60	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "body",$/;"	s	array:blacklist
+61	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "body part",$/;"	s	array:blacklist
+62	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "body substance",$/;"	s	array:blacklist
+63	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bodybuilder",$/;"	s	array:blacklist
+64	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "boldness",$/;"	s	array:blacklist
+65	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bovid",$/;"	s	array:blacklist
+66	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bovine",$/;"	s	array:blacklist
+67	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "brace",$/;"	s	array:blacklist
+68	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "brassiere",$/;"	s	array:blacklist
+69	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "brawn",$/;"	s	array:blacklist
+7	jackett/jackett-config/Jackett/Indexers/1337x.json	/^  {$/;"	o
+7	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^  {$/;"	o
+7	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "adam",$/;"	s	array:blacklist
+70	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "brazilian",$/;"	s	array:blacklist
+71	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "breast",$/;"	s	array:blacklist
+72	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bridget",$/;"	s	array:blacklist
+73	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "brother",$/;"	s	array:blacklist
+74	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "buddha",$/;"	s	array:blacklist
+75	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "buddhist",$/;"	s	array:blacklist
+76	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "builder",$/;"	s	array:blacklist
+77	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bull",$/;"	s	array:blacklist
+78	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "bully",$/;"	s	array:blacklist
+79	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "burger",$/;"	s	array:blacklist
+8	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "adjudicator",$/;"	s	array:blacklist
+80	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "businessman",$/;"	s	array:blacklist
+81	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "businessperson",$/;"	s	array:blacklist
+82	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "buttocks",$/;"	s	array:blacklist
+83	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cadaver",$/;"	s	array:blacklist
+84	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "caricature",$/;"	s	array:blacklist
+85	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "carpenter's kit",$/;"	s	array:blacklist
+86	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "case",$/;"	s	array:blacklist
+87	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cathedral",$/;"	s	array:blacklist
+88	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "caucasian",$/;"	s	array:blacklist
+89	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "catholic",$/;"	s	array:blacklist
+9	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "adviser",$/;"	s	array:blacklist
+90	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cattle",$/;"	s	array:blacklist
+91	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "caucasian",$/;"	s	array:blacklist
+92	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "cell",$/;"	s	array:blacklist
+93	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "central american",$/;"	s	array:blacklist
+94	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "character",$/;"	s	array:blacklist
+95	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "chief justice",$/;"	s	array:blacklist
+96	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "chimpanzee",$/;"	s	array:blacklist
+97	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "chinese",$/;"	s	array:blacklist
+98	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "christian",$/;"	s	array:blacklist
+99	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^      "church",$/;"	s	array:blacklist
+APIKey	jackett/jackett-config/Jackett/ServerConfig.json	/^  "APIKey": "gmjgmned2bl9tygfwr2623ddr95nlpf6",$/;"	s
+AdminPassword	jackett/jackett-config/Jackett/ServerConfig.json	/^  "AdminPassword": null,$/;"	z
+AllowCORS	jackett/jackett-config/Jackett/ServerConfig.json	/^  "AllowCORS": true,$/;"	b
+AllowExternal	jackett/jackett-config/Jackett/ServerConfig.json	/^  "AllowExternal": true,$/;"	b
+BasePathOverride	jackett/jackett-config/Jackett/ServerConfig.json	/^  "BasePathOverride": "",$/;"	s
+BaseUrlOverride	jackett/jackett-config/Jackett/ServerConfig.json	/^  "BaseUrlOverride": "",$/;"	s
+BlackholeDir	jackett/jackett-config/Jackett/ServerConfig.json	/^  "BlackholeDir": "",$/;"	s
+CacheEnabled	jackett/jackett-config/Jackett/ServerConfig.json	/^  "CacheEnabled": true,$/;"	b
+CacheMaxResultsPerIndexer	jackett/jackett-config/Jackett/ServerConfig.json	/^  "CacheMaxResultsPerIndexer": 1000,$/;"	n
+CacheTtl	jackett/jackett-config/Jackett/ServerConfig.json	/^  "CacheTtl": 2100,$/;"	n
+FlareSolverrMaxTimeout	jackett/jackett-config/Jackett/ServerConfig.json	/^  "FlareSolverrMaxTimeout": 55000,$/;"	n
+FlareSolverrUrl	jackett/jackett-config/Jackett/ServerConfig.json	/^  "FlareSolverrUrl": "",$/;"	s
+InstanceId	jackett/jackett-config/Jackett/ServerConfig.json	/^  "InstanceId": "imnwhqa8xr46lkjwpelddbtx717san3cbsu7nw8iahxbbauk0hlwxa1czug6agt8",$/;"	s
+OmdbApiKey	jackett/jackett-config/Jackett/ServerConfig.json	/^  "OmdbApiKey": "",$/;"	s
+OmdbApiUrl	jackett/jackett-config/Jackett/ServerConfig.json	/^  "OmdbApiUrl": "",$/;"	s
+Port	jackett/jackett-config/Jackett/ServerConfig.json	/^  "Port": 9117,$/;"	n
+ProxyIsAnonymous	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyIsAnonymous": true$/;"	b
+ProxyPassword	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyPassword": "",$/;"	s
+ProxyPort	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyPort": null,$/;"	z
+ProxyType	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyType": -1,$/;"	n
+ProxyUrl	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyUrl": "",$/;"	s
+ProxyUsername	jackett/jackett-config/Jackett/ServerConfig.json	/^  "ProxyUsername": "",$/;"	s
+UpdateDisabled	jackett/jackett-config/Jackett/ServerConfig.json	/^  "UpdateDisabled": false,$/;"	b
+UpdatePrerelease	jackett/jackett-config/Jackett/ServerConfig.json	/^  "UpdatePrerelease": false,$/;"	b
+asc	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "asc": "asc"$/;"	s	object:6.options
+asc	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "asc": "asc"$/;"	s	object:6.options
+asc	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^      "asc": "asc"$/;"	s	object:4.options
+blacklist	plex/plex-config/Library/Application Support/Plex Media Server/Cache/autotag_wordlist.json	/^   "blacklist":[  $/;"	a
+date	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "date": "created",$/;"	s	object:5.options
+date	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^      "date": "created",$/;"	s	object:3.options
+desc	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "desc": "desc",$/;"	s	object:6.options
+desc	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "desc": "desc",$/;"	s	object:6.options
+desc	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^      "desc": "desc",$/;"	s	object:4.options
+http://itorrents.org/	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "http:\/\/itorrents.org\/": "iTorrents.org",$/;"	s	object:3.options
+http://itorrents.org/	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "http:\/\/itorrents.org\/": "iTorrents.org",$/;"	s	object:4.options
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "downloadlink",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "downloadlink(fallback)",$/;"	s	object:4
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "orderrequestedfromsite",$/;"	s	object:6
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "sortrequestedfromsite",$/;"	s	object:5
+id	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "id": "tags",$/;"	s	object:7
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "downloadlink",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "downloadlink(fallback)",$/;"	s	object:4
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "orderrequestedfromsite",$/;"	s	object:6
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "sortrequestedfromsite",$/;"	s	object:5
+id	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "id": "tags",$/;"	s	object:7
+id	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "id": "tags",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "orderrequestedfromsite",$/;"	s	object:4
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "sortrequestedfromsite",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "id": "tags",$/;"	s	object:5
+id	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "id": "tags",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "id": "sortrequestedfromsite",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "id": "tags",$/;"	s	object:4
+id	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "id": "tags",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "id": "tags",$/;"	s	object:3
+id	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "id": "cookieheader",$/;"	s	object:1
+id	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "id": "lasterror",$/;"	s	object:2
+id	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "id": "sitelink",$/;"	s	object:0
+id	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "id": "tags",$/;"	s	object:3
+magnet:	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "magnet:": "magnet"$/;"	s	object:3.options
+magnet:	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "magnet:": "magnet"$/;"	s	object:4.options
+magnet:?xt=	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "magnet:?xt=": "magnet"$/;"	s	object:3.options
+magnet:?xt=	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "magnet:?xt=": "magnet"$/;"	s	object:4.options
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Download link (fallback)",$/;"	s	object:4
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Download link",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Order requested from site",$/;"	s	object:6
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Sort requested from site",$/;"	s	object:5
+name	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "name": "Tags",$/;"	s	object:7
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Download link (fallback)",$/;"	s	object:4
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Download link",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Order requested from site",$/;"	s	object:6
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Sort requested from site",$/;"	s	object:5
+name	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "name": "Tags",$/;"	s	object:7
+name	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "name": "Tags",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "Order requested from site",$/;"	s	object:4
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "Sort requested from site",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "name": "Tags",$/;"	s	object:5
+name	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "name": "Tags",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "name": "Sort requested from site",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "name": "Tags",$/;"	s	object:4
+name	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "name": "Tags",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "name": "Tags",$/;"	s	object:3
+name	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "name": "CookieHeader",$/;"	s	object:1
+name	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "name": "LastError",$/;"	s	object:2
+name	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "name": "Site Link",$/;"	s	object:0
+name	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "name": "Tags",$/;"	s	object:3
+options	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "options": {$/;"	o	object:3
+options	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "options": {$/;"	o	object:4
+options	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "options": {$/;"	o	object:5
+options	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "options": {$/;"	o	object:6
+options	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "options": {$/;"	o	object:3
+options	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "options": {$/;"	o	object:4
+options	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "options": {$/;"	o	object:5
+options	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "options": {$/;"	o	object:6
+options	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "options": {$/;"	o	object:3
+options	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "options": {$/;"	o	object:4
+options	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "options": {$/;"	o	object:3
+seeders	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "seeders": "seeders",$/;"	s	object:5.options
+seeders	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^      "seeders": "seeders",$/;"	s	object:3.options
+seeds	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "seeds": "seeders",$/;"	s	object:5.options
+size	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "size": "size"$/;"	s	object:5.options
+size	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "size": "size",$/;"	s	object:5.options
+size	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^      "size": "size"$/;"	s	object:3.options
+time	jackett/jackett-config/Jackett/Indexers/1337x.json	/^      "time": "created",$/;"	s	object:5.options
+title	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^      "title": "title"$/;"	s	object:5.options
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputselect",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputselect",$/;"	s	object:4
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputselect",$/;"	s	object:5
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputselect",$/;"	s	object:6
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "type": "inputtags",$/;"	s	object:7
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputselect",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputselect",$/;"	s	object:4
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputselect",$/;"	s	object:5
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputselect",$/;"	s	object:6
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "type": "inputtags",$/;"	s	object:7
+type	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "type": "inputtags",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "inputselect",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "inputselect",$/;"	s	object:4
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "type": "inputtags",$/;"	s	object:5
+type	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "type": "inputtags",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "type": "inputselect",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "type": "inputtags",$/;"	s	object:4
+type	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "type": "inputtags",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "type": "inputtags",$/;"	s	object:3
+type	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "type": "hiddendata",$/;"	s	object:1
+type	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "type": "hiddendata",$/;"	s	object:2
+type	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "type": "inputstring",$/;"	s	object:0
+type	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "type": "inputtags",$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": ""$/;"	s	object:1
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": ""$/;"	s	object:7
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": "desc",$/;"	s	object:6
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": "http:\/\/itorrents.org\/",$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": "https:\/\/1337x.to\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": "magnet:",$/;"	s	object:4
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": "time",$/;"	s	object:5
+value	jackett/jackett-config/Jackett/Indexers/1337x.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": ""$/;"	s	object:7
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": "\/download\/",$/;"	s	object:4
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": "date",$/;"	s	object:5
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": "desc",$/;"	s	object:6
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": "https:\/\/badasstorrents.com\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": "magnet:?xt=",$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/badasstorrents.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "value": ""$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "value": "https:\/\/bangumi.moe\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/bangumi-moe.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": ""$/;"	s	object:5
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": "date",$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": "desc",$/;"	s	object:4
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": "https:\/\/bitsearch.to\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/bitsearch.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "value": ""$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "value": "https:\/\/bt4g.org\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/bt4g.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "value": ""$/;"	s	object:4
+value	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "value": "0",$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "value": "https:\/\/btmet.com\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/btmet.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "value": ""$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "value": "https:\/\/cloudtorrents.com\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/cloudtorrents.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "value": ""$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "value": "https:\/\/thepiratebay.org\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "value": null$/;"	z	object:1
+value	jackett/jackett-config/Jackett/Indexers/thepiratebay.json	/^    "value": null$/;"	z	object:2
+value	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "value": ""$/;"	s	object:3
+value	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "value": "PHPSESSID=t1dpcrd09l2a91hloli93klntm"$/;"	s	object:1
+value	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "value": "https:\/\/yts.mx\/"$/;"	s	object:0
+value	jackett/jackett-config/Jackett/Indexers/yts.json	/^    "value": null$/;"	z	object:2

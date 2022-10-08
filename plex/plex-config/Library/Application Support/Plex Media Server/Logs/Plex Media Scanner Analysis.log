@@ -1,0 +1,56 @@
+Oct 08, 2022 15:09:41.521 [0x7ffa62402b00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 15:09:41.521 [0x7ffa62402b00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 15:09:41.521 [0x7ffa62402b00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 15:09:41.521 [0x7ffa62402b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 10
+Oct 08, 2022 15:09:41.521 [0x7ffa65e87140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - Analyzing media parts for item 10 (Lego DC Batman: Family Matters): 18
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [ID 36] Media part analysis: /movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [MI] Opening input file: "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [FFMPEG] - Opening '/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4' for reading
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Oct 08, 2022 15:09:41.595 [0x7ffa65e87140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 15:09:41.604 [0x7ffa65e87140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 2002, duration: 114233136
+Oct 08, 2022 15:09:41.608 [0x7ffa65e87140] DEBUG - [FFMPEG] - Offset DTS by 2002 to make first pts zero.
+Oct 08, 2022 15:09:41.609 [0x7ffa65e87140] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Oct 08, 2022 15:09:41.609 [0x7ffa65e87140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 15:09:41.617 [0x7ffa65e87140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 1024, duration: 227793408
+Oct 08, 2022 15:09:41.617 [0x7ffa65e87140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Oct 08, 2022 15:09:41.626 [0x7ffa65e87140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 3229303 bytes read:3232731 seeks:0 nb_streams:2
+Oct 08, 2022 15:09:41.627 [0x7ffa65e87140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.627 [0x7ffa65e87140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.627 [0x7ffa65e87140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Oct 08, 2022 15:09:41.627 [0x7ffa65e87140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 15:09:41.627 [0x7ffa65e87140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Oct 08, 2022 15:09:41.628 [0x7ffa65e87140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 15:09:41.628 [0x7ffa65e87140] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Oct 08, 2022 15:09:41.629 [0x7ffa65e87140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - [FFMPEG] - demuxer injecting skip 1024 / discard 0
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - [FFMPEG] - All info found
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 3230401 bytes read:3232731 seeks:0 frames:3
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - [MI] Opening "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4" for MP4 atom parsing
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Oct 08, 2022 15:09:41.630 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found moov atom of size 3229255 at offset 32
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found trak atom of size 1760832 at offset 148
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found trak atom of size 1468209 at offset 1760980
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found mdia atom of size 1760696 at offset 284
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found minf atom of size 1760611 at offset 369
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found stbl atom of size 1760547 at offset 433
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found mdia atom of size 1468073 at offset 1761116
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found minf atom of size 1467988 at offset 1761201
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - Mp4AtomParser: Found stbl atom of size 1467928 at offset 1761261
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - [MI]  * b468a22dc2cc5cef050bd950bee791bb91c2af23 [mp4 h264/aac] Duration: 4759714ms, 1280x720 (1.776119) 23.976fps, bitrate=1103kbps, audio channels=2, optimizedForStreaming=1 ("/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4")
+Oct 08, 2022 15:09:41.631 [0x7ffa65e87140] DEBUG - [MI] Chapters had generic titles, clearing.
+Oct 08, 2022 15:09:41.632 [0x7ffa65e87140] DEBUG - [MI] Closing input file: "/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+Oct 08, 2022 15:09:41.632 [0x7ffa65e87140] DEBUG - Committing media stream changes for part 36
+Oct 08, 2022 15:09:41.633 [0x7ffa65e87140] DEBUG - Updating media item 18, size=656687104, metadata_item_id=10
+Oct 08, 2022 15:09:41.633 [0x7ffa65e87140] DEBUG - Updating part with ID=36 [/movies/Lego DC Batman Family Matters (2019) [720p] [WEBRip] [YTS.MX]/Lego.DC.Batman.Family.Matters.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4]
+Oct 08, 2022 15:09:41.633 [0x7ffa618adb00] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=10&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 15:09:41.634 [0x7ffa617edb00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=10&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 15:09:41.634 [0x7ffa618adb00] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=10&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Oct 08, 2022 15:09:41.634 [0x7ffa617edb00] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=10&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Oct 08, 2022 15:09:41.635 [0x7ffa65e87140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 15:09:41.635 [0x7ffa65e87140] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 15:09:41.635 [0x7ffa617edb00] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Oct 08, 2022 15:09:41.635 [0x7ffa65e87140] DEBUG - Updating metadata item (save) (Lego DC Batman: Family Matters) with ID 10

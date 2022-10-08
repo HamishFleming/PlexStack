@@ -1,0 +1,34 @@
+Oct 08, 2022 14:57:27.190 [0x7fa1b8fc7b00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 14:57:27.190 [0x7fa1b8fc7b00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 14:57:27.190 [0x7fa1b8fc7b00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 14:57:27.190 [0x7fa1b8fc7b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 4
+Oct 08, 2022 14:57:27.191 [0x7fa1bca4c140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [MI] Opening input file: "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Opening '/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4' for reading
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Oct 08, 2022 14:57:27.275 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 14:57:27.279 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 2002, duration: 44643600
+Oct 08, 2022 14:57:27.281 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Offset DTS by 2002 to make first pts zero.
+Oct 08, 2022 14:57:27.281 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Oct 08, 2022 14:57:27.281 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Oct 08, 2022 14:57:27.285 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 2048, duration: 89287680
+Oct 08, 2022 14:57:27.285 [0x7fa1bca4c140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Oct 08, 2022 14:57:27.285 [0x7fa1bca4c140] DEBUG - [FFMPEG] - drop a frame at curr_cts: 1024 @ 1
+Oct 08, 2022 14:57:27.287 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 1558684 bytes read:1576712 seeks:0 nb_streams:2
+Oct 08, 2022 14:57:27.287 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.287 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.288 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Oct 08, 2022 14:57:27.288 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.288 [0x7fa1bca4c140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Oct 08, 2022 14:57:27.290 [0x7fa1bca4c140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [FFMPEG] - demuxer injecting skip 2048 / discard 0
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [FFMPEG] - All info found
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1560905 bytes read:1576712 seeks:0 frames:2
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 14:57:27.292 [0x7fa1bca4c140] DEBUG - [MI] Closing input file: "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+Oct 08, 2022 14:57:27.293 [0x7fa1bca4c140] DEBUG - Matcher: found 0 auxiliary files in "/movies" (single media: yes)
+Oct 08, 2022 14:57:27.293 [0x7fa1bca4c140] DEBUG - Matcher: no sidecar subtitle files found for "/movies/Batman.Death.In.The.Family.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+Oct 08, 2022 14:57:27.293 [0x7fa1bca4c140] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

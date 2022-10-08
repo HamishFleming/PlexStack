@@ -1,0 +1,41 @@
+Oct 08, 2022 14:51:53.900 [0x7f13af8d8b00] INFO - Plex Media Scanner v1.29.0.6244-819d3678c - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Oct 08, 2022 14:51:53.900 [0x7f13af8d8b00] INFO - Linux version: 5.15.0-50-generic, language: en-US
+Oct 08, 2022 14:51:53.900 [0x7f13af8d8b00] INFO - Processor: 12-core Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Oct 08, 2022 14:51:53.900 [0x7f13af8d8b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 1
+Oct 08, 2022 14:51:53.901 [0x7f13b335d140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Oct 08, 2022 14:51:54.057 [0x7f13b335d140] DEBUG - Analyzing media parts for item 1 (Black): 1
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - Computing hash for a tiny file, only using first block.
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [ID 19] Media part analysis: /proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [MI] Opening input file: "/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts"
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [FFMPEG] - Opening '/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts' for reading
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] WARN - [FFMPEG] - Format mpegts detected only with low score of 2, misdetection possible!
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] WARN - [FFMPEG] - Could not detect TS packet size, defaulting to non-FEC/DVHS
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [FFMPEG] - stream=0 stream_type=1b pid=100 prog_reg_desc=
+Oct 08, 2022 14:51:54.058 [0x7f13b335d140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:752 seeks:0 nb_streams:1
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Oct 08, 2022 14:51:54.059 [0x7f13b335d140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Oct 08, 2022 14:51:54.060 [0x7f13b335d140] DEBUG - [FFMPEG] - no picture 
+Oct 08, 2022 14:51:54.061 [0x7f13b335d140] INFO - [FFMPEG] - decoding for stream 0 failed
+Oct 08, 2022 14:51:54.061 [0x7f13b335d140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:752 seeks:0 frames:1
+Oct 08, 2022 14:51:54.061 [0x7f13b335d140] DEBUG - [MI]  * 752321726c47f92b4f749d0e34b001680f56321c13b [mpegts h264/] Duration: 40ms, 640x480 (1.333333) 25.000fps, bitrate=150kbps, audio channels=0, optimizedForStreaming=0 ("/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts")
+Oct 08, 2022 14:51:54.061 [0x7f13b335d140] DEBUG - [MI] Chapters had generic titles, clearing.
+Oct 08, 2022 14:51:54.062 [0x7f13b335d140] DEBUG - [MI] Closing input file: "/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts"
+Oct 08, 2022 14:51:54.062 [0x7f13b335d140] DEBUG - Committing media stream changes for part 19
+Oct 08, 2022 14:51:54.063 [0x7f13b335d140] DEBUG - Updating media item 1, size=752, metadata_item_id=1
+Oct 08, 2022 14:51:54.063 [0x7f13b335d140] DEBUG - Updating part with ID=19 [/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/proc/129/root/lib/plexmediaserver/Resources/black-h264.ts]
+Oct 08, 2022 14:51:54.064 [0x7f13aeccbb00] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 14:51:54.072 [0x7f13b335d140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.072 [0x7f13b335d140] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.072 [0x7f13aec53b00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Oct 08, 2022 14:51:54.072 [0x7f13aeccbb00] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Oct 08, 2022 14:51:54.072 [0x7f13aec53b00] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Oct 08, 2022 14:51:54.073 [0x7f13aec53b00] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Oct 08, 2022 14:51:54.073 [0x7f13b335d140] DEBUG - Updating metadata item (save) (Black) with ID 1
